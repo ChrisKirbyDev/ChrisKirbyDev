@@ -25,7 +25,7 @@ I am adaptable and self-motivated, Electrical Engineer turned Self-Taught softwa
 <br />
 <br/>
 
-### 💻 What i am currently/done working on
+### 💻 What i have currently/done working on
 - [CakesByEmilyEve](https://cakes-by-emily-eve.herokuapp.com/)  🚀
 - [AccessMap](https://cakes-by-emily-eve.herokuapp.com/) GovHack Aotearoa Finalist 🚀
   https://2020.hackerspace.govhack.org/projects/accessmap
