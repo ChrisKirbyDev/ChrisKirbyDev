@@ -32,8 +32,9 @@ I am adaptable and self-motivated, Electrical Engineer turned Self-Taught softwa
 - [ConCurr](https://concurr.herokuapp.com/)  🚀
 - [AccessMap](https://accessmap.herokuapp.com/) GovHack Aotearoa Winner 🌟
   https://2020.hackerspace.govhack.org/projects/accessmap
+- [Gothika](https://gothica.herokuapp.com/)  🚀
 - LeanHome  🚧 *coming soon*
-- [Gothika](https://gothica.herokuapp.com/)  🚧 *a work in progress* 🚧
+
 - New Portfolio  🚧 *coming soon*
 
 ### 📫 Where to find me
