@@ -1,5 +1,7 @@
 <h2 align="center">Hello there! My name is Chris Kirby. 👋🤓</h2>
 <p align="center">I'm an Electrical Engineer and Software Developer from Auckland, New Zealand.</p>
+
+<p align="center">Currently working as a Junior Developer and as a Test Analyst!</p>
  
 <p align="center">
 Enthusiastic for opportunities in software development, that can build on my self-taught skills and appetite for knowledge in a fastpaced industry.
